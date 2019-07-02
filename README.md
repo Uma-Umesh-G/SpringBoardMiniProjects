@@ -1,3 +1,3 @@
 # SpringAssignment
-Assignments Solved by UMa
-Data Science Carrer Track miniAssignments 
+Assignments Solved by Uma Gajendragadkar
+Data Science Carrer Track miniAssignments and Capstone Projects
